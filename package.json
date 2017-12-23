@@ -1,0 +1,23 @@
+{
+  "name": "testnet-tools",
+  "version": "1.0.0",
+  "description": "1. Скачать или клонировать репозиторий 2. В директории выполнить ```npm install``` 3. Отредактировать config.json (вписать свой аккаунт вместо ropox) 4. Что бы полчить монеты от cyberfounder-а выполнить",
+  "main": "gettockens.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gropox/testnet-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gropox/testnet-tools/issues"
+  },
+  "homepage": "https://github.com/gropox/testnet-tools#readme",
+  "dependencies": {
+    "golos-addons": "^1.0.8",
+    "golos-js": "^0.5.29"
+  }
+}
